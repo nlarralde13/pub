@@ -1,0 +1,23 @@
+{
+    "SLICER_PORT": "65009", 
+    "MAXPODTIME": "600", 
+    "UDPPORT": "1895", 
+    "SLICER_AUTH_REQD": "false", 
+    "SLICER_IP": "http://127.0.0.1:65009", 
+    "SLICER_KEY": "", 
+    "UDPRELAY": "False", 
+    "NICKNAME": "KSTP", 
+    "BUTTON": "11", 
+    "WEBSERVER": "http://localhost", 
+    "PUB": "1", 
+    "MINPODTIME": "8", 
+    "DEBOUNCETIME": ".1", 
+    "VERSION": "1.0", 
+    "BOUNDARYTYPE": "C3", 
+    "BUTTONMAP": "[[1, u'CONTENT_START', u'None'], [2, u'None', u'None'], [3, u'None', u'None']]", 
+    "INTERFACE": "[['RS232', 'RS232A', '/dev/tty.usbserial'], ['RELAY', 'RELAY', '/dev/tty.usbmodem1421']]", 
+    "TIMEZONE": "US/Central", 
+    "IOMAP": "[[1, 'RS232A_DCD'], [2, 'RS232A_CTS'], [3, 'RS232A_DSR']]", 
+    "RELAYPULSE": "False", 
+    "ENCDELAY": "1"
+}
